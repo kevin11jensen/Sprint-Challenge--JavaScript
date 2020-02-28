@@ -15,7 +15,7 @@ class CuboidMaker{
 }
 
 
-const cuboidObj = new CuboidMaker ({
+const cuboid = new CuboidMaker ({
   length: 4,
   width: 5, 
   height: 5
